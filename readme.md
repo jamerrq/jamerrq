@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="imgs/waving.gif">, I'm Jamer José</h1>
-<h4 align="center">a freelance as Full Stack developer an also a math engineer at EAFIT university, see my <a href="https://github.com/jamerrq/jamerrq/blob/master/assets/doc/resume.pdf" target="_blank">resume</a> for more information</h4>
+<h4 align="center">a freelance as Full Stack developer an also a math engineer at EAFIT university, see my <a href="https://github.com/jamerrq/jamerrq/blob/8d13ae1ba04aa6797fadb9ae2b3991d62fbd9f95/resume.pdf" target="_blank">resume</a> for more information</h4>
 </div>
 
 <div align="center">
