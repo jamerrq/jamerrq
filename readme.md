@@ -71,12 +71,10 @@
 </p>
 
 
-<details open>
+<details>
   <summary>💻 GitHub Profile Stats</summary>
   <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
+
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/jamerrq/">
