@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="imgs/waving.gif">, I'm Jamer José</h1>
-<h4 align="center">Full Stack developer | Math Engineer at EAFIT university | See my <a href="https://github.com/jamerrq/jamerrq/blob/8d13ae1ba04aa6797fadb9ae2b3991d62fbd9f95/resume.pdf" target="_blank">resume</a> for more information</h4>
+<h4 align="center">Full Stack Web Developer | Math Engineer at EAFIT university | See my <a href="https://github.com/jamerrq/jamerrq/blob/8d13ae1ba04aa6797fadb9ae2b3991d62fbd9f95/resume.pdf" target="_blank">resume</a> for more information</h4>
 </div>
 
 <div align="center">
@@ -71,6 +71,28 @@
 </p>
 
 <br>
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerrq&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="jamerrq :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamerrq&theme=gruvbox&layout=compact&hide_border=true"
+          alt="jamerrq :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamerrq&theme=gruvbox&layout=compact&hide_border=true"
+          alt="jamerrq :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
 <br>
 
 -----
