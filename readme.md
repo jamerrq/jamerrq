@@ -1,4 +1,4 @@
-# My Github Profile
+#
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="imgs/waving.gif">, I'm Jamer José</h1>
@@ -12,8 +12,6 @@
 </div>
 
 -----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" alt="">
 
 <b> Skills</b>
 <br>
@@ -48,6 +46,7 @@
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
     ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+    ![Render](https://img.shields.io/badge/Render-FF6C37?style=for-the-badge&logo=render&logoColor=white)
 
 <br>
 
@@ -78,9 +77,10 @@
     <summary>💻 GitHub Profile Stats</summary>
     <div>
         <p align="center">
-        <a href="https://github.com/jamerrq/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerrq&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="jamerrq :: overall Top Langs " /></a>
+            <a href="https://github.com/jamerrq/">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerrq&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+            alt="jamerrq :: overall Top Langs " />
+            </a>
         </p>
         <p align="center">
           <a href="https://github.com/jamerrq/">
