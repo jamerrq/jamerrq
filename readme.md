@@ -2,7 +2,8 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="imgs/waving.gif">, I'm Jamer José</h1>
-<h4 align="center">Full Stack Web Developer | Math Engineer at EAFIT university | Check my <a href="">
+<h4 align="center">Full Stack Web Developer | Math Engineer at EAFIT university | Check my <a href="https://my-portfolio-jamerrq.netlify.app/" target="_blank">
+portfolio</a> for more information
 </div>
 
 <div align="center">
@@ -13,8 +14,11 @@
 
 -----
 
-[![codewars](https://www.codewars.com/users/jamerrq/badges/large)](https://www.codewars.com/users/jamerrq)
 <p align="center">
+    <a href="https://www.codewars.com/users/jamerrq" target="_blank">
+        <img src="https://www.codewars.com/users/jamerrq/badges/large" alt="codewars"></img>
+    </a>
+    <br />
     <img src="https://visitcount.itsvg.in/api?id=jamerrq&label=Profile%20Views&color=0&pretty=false" alt="profile counts">
     </img>
 </p>
@@ -46,6 +50,7 @@
    ![Nodejs](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.js](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
