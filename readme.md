@@ -19,7 +19,7 @@ portfolio</a> for more information
         <img src="https://www.codewars.com/users/jamerrq/badges/large" alt="codewars"></img>
     </a>
     <br />
-    <img src="https://visitcount.itsvg.in/api?id=jamerrq&label=Profile%20Views&color=0&pretty=false" alt="profile counts">
+    <img src="https://visitcount.itsvg.in/api?id=jamerrq&label=Profile%20Views&color=0&pretty=false&icon=8" alt="profile counts">
     </img>
 </p>
 
@@ -51,9 +51,13 @@ portfolio</a> for more information
     ![Express.js](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 <br>
+
+- **Testing**
+
+    ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+    ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+    ![Chai](https://img.shields.io/badge/-chai-%43B02A?style=for-the-badge&logo=chai&logoColor=white)
 
 - **Cloud Hosting**:
 
@@ -68,9 +72,11 @@ portfolio</a> for more information
 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
     ![Visual Studio Code](https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+    ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
