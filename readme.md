@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Jamer José</h1>
 <details open>
-<summary align="left"> 🕊 ABOUT</summary>
+<summary align="left"> 🙋🏾‍♂️ ABOUT</summary>
 <h4 align="center">Full Stack Web Developer | Math Engineer at EAFIT university | Check my <a href="https://my-portfolio-jamerrq.netlify.app/" target="_blank">
 portfolio</a> for more information</h4>
 
@@ -44,7 +44,7 @@ portfolio</a> for more information</h4>
 
 </p>
 <details closed>
-<summary> 🕷 MORE SKILLS</summary>
+<summary> 🧪 MORE SKILLS</summary>
 
 <p align="center">
 
@@ -90,14 +90,14 @@ portfolio</a> for more information</h4>
 <hr />
 
 <details closed>
-    <summary> 🖩 GIT STATS</summary>
+    <summary> 🧮 GIT STATS</summary>
     <div>
-        <!-- <p align="center">
+        <p align="center">
             <a href="https://github.com/jamerrq/">
             <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamerrq&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
             alt="jamerrq :: overall Top Langs " />
             </a>
-        </p> -->
+        </p>
         <!-- <p align="center">
           <a href="https://github.com/jamerrq/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamerrq&theme=gruvbox&layout=compact&hide_border=true"
@@ -115,8 +115,8 @@ portfolio</a> for more information</h4>
 
 -----
 
-<details open>
-    <summary> 🕻 CONTACT ME</summary>
+<details closed>
+    <summary> 📞 CONTACT ME</summary>
 <div>
     <samp>
         <p align="center">
@@ -127,6 +127,9 @@ portfolio</a> for more information</h4>
         <a href="mailto:jamerrq@gmail.com" target="blank"><img align="center"
         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
         alt="gmail" height="30"/></a>
+        <a href="https://wa.me/573008163841" target="blank"><img align="center"
+        src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+        alt="whatsapp" height="30"/></a>
         </p>
     </samp>
 </div>
@@ -135,6 +138,6 @@ portfolio</a> for more information</h4>
 -----
 
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=jamerrq&label=Profile%20Views&color=0&pretty=false&icon=8" alt="">
+    <img src="https://visitcount.itsvg.in/api?id=jamerrq&label=Profile%20Views&color=0&pretty=true&icon=0" alt="">
     </img>
 </p>
