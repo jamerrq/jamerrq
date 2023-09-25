@@ -4,17 +4,11 @@
 <h1 align="center">Jamer José</h1>
 <details open>
 <summary align="left"> 🙋🏾‍♂️ ABOUT</summary>
-<h4 align="center">Full Stack Web Developer | Math Engineer at EAFIT university | Check my <a href="https://my-portfolio-jamerrq.netlify.app/" target="_blank">
-portfolio</a> for more information</h4>
+<h4 align="center">Full Stack Web Developer | <a href="https://my-portfolio-jamerrq.netlify.app/" target="_blank">
+Portfolio</a></h4>
 
 </details>
 </div>
-
-<!-- <div align="center">
-    <a href="https://my-portfolio-jamerrq.netlify.app/">
-    <img src="imgs/grid-snake.svg"
-        alt="snake" /></a>
-</div> -->
 
 <hr />
 
@@ -42,6 +36,10 @@ portfolio</a> for more information</h4>
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
+   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+   ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
+   ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
+
 </p>
 <details closed>
 <summary> 🧪 MORE SKILLS</summary>
@@ -50,6 +48,7 @@ portfolio</a> for more information</h4>
 
 - **Testing**
 
+    ![Vitest](https://img.shields.io/badge/-vitest-%23E34F26?style=for-the-badge&logo=vitest&logoColor=white)
     ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
     ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
     ![Chai](https://img.shields.io/badge/-chai-%43B02A?style=for-the-badge&logo=chai&logoColor=white)
@@ -60,6 +59,7 @@ portfolio</a> for more information</h4>
     ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
     ![Render](https://img.shields.io/badge/Render-FF6C37?style=for-the-badge&logo=render&logoColor=white)
     ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+    ![Denoland](https://img.shields.io/badge/Denoland-000000?style=for-the-badge&logo=deno&logoColor=white)
 
 - **Softwares and Tools**:
 
@@ -82,6 +82,7 @@ portfolio</a> for more information</h4>
     ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
     ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 </p>
 </details>
@@ -95,22 +96,19 @@ portfolio</a> for more information</h4>
         <p align="center">
             <a href="https://github.com/jamerrq/">
             <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamerrq&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-            alt="jamerrq :: overall Top Langs " />
+            alt="" />
             </a>
         </p>
-        <!-- <p align="center">
-          <a href="https://github.com/jamerrq/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamerrq&theme=gruvbox&layout=compact&hide_border=true"
-          alt="jamerrq :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamerrq&theme=gruvbox&layout=compact&hide_border=true"
-          alt="jamerrq :: Top Langs by commit" />
-          </a>
-        </p> -->
-        <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jamerrq&theme=tokyonight" alt="jamerrq" /></p>
+        <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jamerrq&theme=tokyonight" alt="" /></p>
         <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jamerrq&show_icons=true&theme=tokyonight"
-        alt="jamerrq"></p>
+        alt=""></p>
     </div>
 
+</details>
+<hr />
+<details open>
+<summary align="left">🃏 MY SETUP</summary>
+<img src="https://github.com/jamerrq/jamerrq/blob/master/imgs/desktop.png" alt=""></img>
 </details>
 
 -----
