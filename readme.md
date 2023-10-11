@@ -7,7 +7,7 @@
 <img src="icons/user.svg" width="15" height="15" align="center"/>&ensp;ABOUT
 </summary>
 <h4 align="center">Full Stack Web Developer | <a href="https://jamerrq-com.vercel.app/" target="_blank">
-Personal Webpage</a></h4>
+Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/pdf/CV_JamerRebolledo.pdf" target="_blank">Curriculum Vitae</a></h4>
 
 </details>
 </div>
