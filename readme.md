@@ -119,8 +119,8 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 <summary align="left">
 <img src="icons/laptop-code.svg" width="15" height="15" align="center"/>&ensp;DESKTOP</summary>
 <img src="imgs/desktop.png" alt=""></img>
-<img src="icons/spotify.svg" width="15" height="15" align="center"/>&ensp;PLAYING NOW
-<img src="imgs/desktop-spotify.png" alt=""></img>
+<img src="icons/spotify.svg" width="15" height="15" align="center"/>&ensp;
+<img src="imgs/desktop-spotify2.png" alt=""></img>
 
 </details>
 
