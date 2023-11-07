@@ -2,6 +2,9 @@
 
 <div align="center">
 <h1 align="center">Jamer José</h1>
+
+[![An image of @jamerrq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jamerrq)](https://holopin.io/@jamerrq)
+
 <details open>
 <summary align="left">
 <img src="icons/user.svg" width="15" height="15" align="center"/>&ensp;ABOUT
@@ -110,17 +113,20 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 <details closed>
     <br/>
     <summary>
-    <img src="icons/github.svg" width="15" height="15" align="center"/>&ensp;GIT STATS</summary>
-    <div>
-        <p align="center">
+        <img src="icons/github.svg" width="15" height="15" align="center"/>&ensp;GIT STATS
+    </summary>
+    <div align="center">
+        <div>
             <a href="https://github.com/jamerrq/">
-            <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamerrq&layout=compact&langs_count=8&theme=algolia"
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamerrq&layout=compact&langs_count=8&theme=gotham&hide_border=true"
             alt="" />
             </a>
-        </p>
-        <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jamerrq&theme=algolia" alt="" /></p>
-        <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamerrq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-        alt=""></p>
+        </div>
+        <div>
+        <img src="https://streak-stats.demolab.com?user=jamerrq&theme=gotham&hide_border=true&border_radius=5&mode=weekly" alt="" />
+        </div>
+        <div><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamerrq&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"
+        alt=""></div>
     </div>
 
 </details>
@@ -130,7 +136,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 <img src="icons/laptop-code.svg" width="15" height="15" align="center"/>&ensp;DESKTOP</summary>
 <img src="imgs/desktop.png" alt=""></img>
 <img src="icons/spotify.svg" width="15" height="15" align="center"/>&ensp;
-<img src="imgs/desktop-spotify2.png" alt=""></img>
+<img src="imgs/desktop-spotify3.png" alt=""></img>
 
 </details>
 
