@@ -74,8 +74,8 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
     ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
     ![Render](https://img.shields.io/badge/Render-FF6C37?style=for-the-badge&logo=render&logoColor=white)
 
-    ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
-    ![Denoland](https://img.shields.io/badge/Denoland-000000?style=for-the-badge&logo=deno&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/Netlify-%23107573.svg?style=for-the-badge&logo=netlify&logoColor=white)
+    ![Denoland](https://img.shields.io/badge/Denoland-22C55E?style=for-the-badge&logo=deno&logoColor=white)
 
 - **Softwares and Tools**:
 
