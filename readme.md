@@ -46,8 +46,14 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
    ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-   ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
-   ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
+   ![Astro](https://img.shields.io/badge/Astro-DA510B?style=for-the-badge&logo=astro&logoColor=white)
+   ![Supabase](https://img.shields.io/badge/Supabase-29A66A?style=for-the-badge&logo=supabase&logoColor=white)
+
+- **Learning**:
+
+    [![C#](https://img.shields.io/badge/Foundational%20C%23%20with%20Microsoft-%230A0A23.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+
+    [![Github Cloud Skills Challenge](https://img.shields.io/badge/Github%20Cloud%20Skills%20Challenge-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/collections/kkqrhmxoqn54?WT.mc_id=cloudskillschallenge_ef5f9f41-0818-4895-9217-79d19827a322)
 
 </p>
 <details closed>
@@ -92,18 +98,6 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
     ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-- **Learning**:
-
-    <!-- ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-    ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) -->
-    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-    ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
 </p>
 </details>
 </details>
@@ -117,18 +111,16 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
     </summary>
     <div align="center">
         <div>
-            <a href="https://github.com/jamerrq/">
             <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamerrq&layout=compact&langs_count=8&theme=gotham&hide_border=true"
             alt="" />
-            </a>
         </div>
         <div>
-        <img src="https://streak-stats.demolab.com?user=jamerrq&theme=gotham&hide_border=true&border_radius=5&mode=weekly" alt="" />
+            <img src="https://streak-stats.demolab.com?user=jamerrq&theme=gotham&   hide_border=true&border_radius=5&mode=weekly" alt="" />
         </div>
-        <div><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamerrq&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"
-        alt=""></div>
+        <div>
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamerrq&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="">
+        </div>
     </div>
-
 </details>
 <hr />
 <details closed>
@@ -136,7 +128,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 <img src="icons/laptop-code.svg" width="15" height="15" align="center"/>&ensp;DESKTOP</summary>
 <img src="imgs/desktop.png" alt=""></img>
 <img src="icons/spotify.svg" width="15" height="15" align="center"/>&ensp;
-<img src="imgs/desktop-spotify3.png" alt=""></img>
+<img src="imgs/desktop-spotify4.png" alt=""></img>
 
 </details>
 
