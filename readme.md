@@ -7,7 +7,7 @@
 
 <details open>
 <summary align="left">
-<img src="icons/user.svg" width="15" height="15" align="center"/>&ensp;ABOUT
+<img src="icons/user.svg" width="15" height="15" align="center" alt=""/>&ensp;ABOUT
 </summary>
 <h4 align="center">Full Stack Web Developer | <a href="https://jamerrq-com.vercel.app/" target="_blank">
 Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/pdf/CV_JamerRebolledo.pdf" target="_blank">Curriculum Vitae</a></h4>
@@ -19,7 +19,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 
 <details open>
 <summary>
-<img src="icons/paintbrush.svg" width="15" height="15" align="center"/>&ensp;SKILLS
+<img src="icons/paintbrush.svg" width="15" height="15" align="center" alt=""/>&ensp;SKILLS
 </summary>
 
 <p align="center">
@@ -51,13 +51,11 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 
 - **Learning**:
 
-    [![C#](https://img.shields.io/badge/Foundational%20C%23%20with%20Microsoft-%230A0A23.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
-
-    [![Github Cloud Skills Challenge](https://img.shields.io/badge/Github%20Cloud%20Skills%20Challenge-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/collections/kkqrhmxoqn54?WT.mc_id=cloudskillschallenge_ef5f9f41-0818-4895-9217-79d19827a322)
+    [![C#](https://img.shields.io/badge/Foundational%20C%23%20with%20Microsoft-%230A0A23.svg?style=for-the-badge&logo=.net&logoColor=white)](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
 </p>
 <details closed>
-<summary><img src="icons/wand-magic-sparkles.svg" width="15" height="15" align="center"/>&ensp;MORE SKILLS</summary>
+<summary><img src="icons/wand-magic-sparkles.svg" width="15" height="15" align="center" alt=""/>&ensp;MORE SKILLS</summary>
 
 <p align="center">
 
@@ -90,7 +88,6 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 - **Extras**:
 
@@ -107,7 +104,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 <details closed>
     <br/>
     <summary>
-        <img src="icons/github.svg" width="15" height="15" align="center"/>&ensp;GIT STATS
+        <img src="icons/github.svg" width="15" height="15" align="center" alt=""/>&ensp;GIT STATS
     </summary>
     <div align="center">
         <div>
@@ -125,9 +122,9 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 <hr />
 <details closed>
 <summary align="left">
-<img src="icons/laptop-code.svg" width="15" height="15" align="center"/>&ensp;DESKTOP</summary>
+<img src="icons/laptop-code.svg" width="15" height="15" align="center" alt=""/>&ensp;DESKTOP</summary>
 <img src="imgs/desktop.png" alt=""></img>
-<img src="icons/spotify.svg" width="15" height="15" align="center"/>&ensp;
+<img src="icons/spotify.svg" width="15" height="15" align="center" alt=""/>&ensp;
 <img src="imgs/desktop-spotify4.png" alt=""></img>
 
 </details>
@@ -136,19 +133,19 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 
 <details open>
     <summary>
-    <img src="icons/paper-plane.svg" width="15" height="15" align="center"/>&ensp;CONTACT ME
+    <img src="icons/paper-plane.svg" width="15" height="15" align="center" alt=""/>&ensp;CONTACT ME
     </summary>
 <div>
     <samp>
         <p align="center">
         <br/>
-        <a href="https://www.linkedin.com/in/jamerrq/" target="blank"><img align="center"
+        <a href="https://www.linkedin.com/in/jamerrq/" target="_blank"><img align="center"
         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="linkedin" height="30"/></a>
-        <a href="mailto:jamerrq@gmail.com" target="blank"><img align="center"
+        <a href="mailto:jamerrq@gmail.com" target="_blank"><img align="center"
         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
         alt="gmail" height="30"/></a>
-        <a href="https://wa.me/573008163841" target="blank"><img align="center"
+        <a href="https://wa.me/573008163841" target="_blank"><img align="center"
         src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
         alt="whatsapp" height="30"/></a>
         <!-- Discord -->
@@ -156,12 +153,13 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
         <img align="center"
         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
         alt="whatsapp" height="30"/></a>
+        <a href="https://twitter.com/jamerrq" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="30"/></a>
         </p>
         <!-- Webpage -->
         <p align="center">
         <a href="https://jamerrq-com.vercel.app/" target="blank"><img align="center"
         src="https://img.shields.io/badge/Personal%20Webpage-000000.svg?style=for-the-badge&logo=react&logoColor=white"
-        alt="whatsapp" height="30"/></a>
+        alt="webpage" height="30"/></a>
         </p>
     </samp>
 </div>
