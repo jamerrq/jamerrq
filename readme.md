@@ -3,7 +3,10 @@
 <div align="center">
 <h1 align="center">Jamer José</h1>
 
-[![An image of @jamerrq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jamerrq)](https://holopin.io/@jamerrq)
+[![An image of @jamerrq's Holopin badges, which is a link to view their full
+Holopin profile](https://holopin.me/jamerrq)](https://holopin.io/@jamerrq)
+
+![Codewarks Profile Kata](https://www.codewars.com/users/jamerrq/badges/large)
 
 <details open>
 <summary align="left">
