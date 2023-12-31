@@ -12,7 +12,7 @@ Holopin profile](https://holopin.me/jamerrq)](https://holopin.io/@jamerrq)
 <summary align="left">
 <img src="icons/user.svg" width="15" height="15" align="center" alt=""/>&ensp;ABOUT
 </summary>
-<h4 align="center">Full Stack Web Developer | <a href="https://jamerrq-com.vercel.app/" target="_blank">
+<h4 align="center">Backend Developer | <a href="https://jamerrq-com.vercel.app/" target="_blank">
 Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/pdf/CV_JamerRebolledo.pdf" target="_blank">Curriculum Vitae</a></h4>
 
 </details>
@@ -32,6 +32,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 - **Full Stack Development**:
 
@@ -40,13 +41,13 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
    ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
    ![Redux](https://img.shields.io/badge/Redux%20-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
    ![Nodejs](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.js](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+   ![Sequelize](https://img.shields.io/badge/Sequelize-43B049?style=for-the-badge&logo=Sequelize&logoColor=white)
 
    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
    ![Astro](https://img.shields.io/badge/Astro-DA510B?style=for-the-badge&logo=astro&logoColor=white)
@@ -67,7 +68,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
     ![Vitest](https://img.shields.io/badge/-vitest-%23E34F26?style=for-the-badge&logo=vitest&logoColor=white)
     ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
     ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-    ![Chai](https://img.shields.io/badge/-chai-%43B02A?style=for-the-badge&logo=chai&logoColor=white)
+    ![Chai](https://img.shields.io/badge/-chai-A30802?style=for-the-badge&logo=chai&logoColor=white)
 
 - **Cloud Hosting**:
 
@@ -76,7 +77,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
     ![Render](https://img.shields.io/badge/Render-FF6C37?style=for-the-badge&logo=render&logoColor=white)
 
     ![Netlify](https://img.shields.io/badge/Netlify-%23107573.svg?style=for-the-badge&logo=netlify&logoColor=white)
-    ![Denoland](https://img.shields.io/badge/Denoland-22C55E?style=for-the-badge&logo=deno&logoColor=white)
+    ![Denoland](https://img.shields.io/badge/Denoland-000?style=for-the-badge&logo=deno&logoColor=white)
 
 - **Softwares and Tools**:
 
@@ -86,7 +87,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 
     ![Visual Studio
     Code](https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+    ![Anaconda](https://img.shields.io/badge/Anaconda-43B049.svg?style=for-the-badge&logo=anaconda&logoColor=white)
     ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -127,8 +128,12 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 <summary align="left">
 <img src="icons/laptop-code.svg" width="15" height="15" align="center" alt=""/>&ensp;DESKTOP</summary>
 <img src="imgs/desktop.png" alt=""></img>
-<img src="icons/spotify.svg" width="15" height="15" align="center" alt=""/>&ensp;
-<img src="imgs/desktop-spotify4.png" alt=""></img>
+    <details closed>
+        <summary align="left">
+            <img src="icons/spotify.svg" width="15" height="15" align="center" alt=""/>&ensp;
+        </summary>
+        <img src="imgs/desktop-spotify5.png" alt=""></img>
+    </details>
 
 </details>
 
@@ -136,18 +141,21 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 
 <details open>
     <summary>
-    <img src="icons/paper-plane.svg" width="15" height="15" align="center" alt=""/>&ensp;CONTACT ME
+    <img src="icons/paper-plane.svg" width="15" height="15" align="center" alt=""/>&ensp;CONTACT & SOCIAL
     </summary>
 <div>
     <samp>
         <p align="center">
         <br/>
+        <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/jamerrq/" target="_blank"><img align="center"
         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="linkedin" height="30"/></a>
+        <!-- Gmail -->
         <a href="mailto:jamerrq@gmail.com" target="_blank"><img align="center"
         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
         alt="gmail" height="30"/></a>
+        <!-- Whatsapp -->
         <a href="https://wa.me/573008163841" target="_blank"><img align="center"
         src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
         alt="whatsapp" height="30"/></a>
@@ -156,12 +164,23 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
         <img align="center"
         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
         alt="whatsapp" height="30"/></a>
+        <br/>
+        <br/>
+        <!-- Twitter -->
         <a href="https://twitter.com/jamerrq" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="30"/></a>
+        <!-- Codeforces -->
+        <a href="https://codeforces.com/profile/jamerrq" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"
+        alt="codeforces" height="30"/></a>
+        <!-- Codewars -->
+        <a href="https://www.codewars.com/users/jamerrq" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/codewars-B1361E.svg?style=for-the-badge&logo=codewars&logoColor=white"
+        alt="codewars" height="30"/></a>
         </p>
         <!-- Webpage -->
         <p align="center">
         <a href="https://jamerrq-com.vercel.app/" target="blank"><img align="center"
-        src="https://img.shields.io/badge/Personal%20Webpage-000000.svg?style=for-the-badge&logo=react&logoColor=white"
+        src="https://img.shields.io/badge/Personal%20Webpage-000000.svg?style=for-the-badge&logo=astro&logoColor=white"
         alt="webpage" height="30"/></a>
         </p>
     </samp>
@@ -171,6 +190,6 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 -----
 
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=jamerrq&label=Profile%20Views&color=0&pretty=true&icon=0" alt="">
+    <img src="https://visitcount.itsvg.in/api?id=jamerrq&label=Profile%20Views&color=0&icon=0&pretty=false)" alt="">
     </img>
 </p>
