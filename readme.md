@@ -12,7 +12,7 @@ Holopin profile](https://holopin.me/jamerrq)](https://holopin.io/@jamerrq)
 <summary align="left">
 <img src="icons/user.svg" width="15" height="15" align="center" alt=""/>&ensp;ABOUT
 </summary>
-<h4 align="center">Backend Developer | <a href="https://jamerrq-com.vercel.app/" target="_blank">
+<h4 align="center">Backend Developer | <a href="https://jamerrq.deno.dev/" target="_blank">
 Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/pdf/CV_JamerRebolledo.pdf" target="_blank">Curriculum Vitae</a></h4>
 
 </details>
@@ -32,7 +32,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 - **Full Stack Development**:
 
@@ -179,7 +179,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
         </p>
         <!-- Webpage -->
         <p align="center">
-        <a href="https://jamerrq-com.vercel.app/" target="blank"><img align="center"
+        <a href="https://jamerrq.deno.dev/" target="blank"><img align="center"
         src="https://img.shields.io/badge/Personal%20Webpage-000000.svg?style=for-the-badge&logo=astro&logoColor=white"
         alt="webpage" height="30"/></a>
         </p>
