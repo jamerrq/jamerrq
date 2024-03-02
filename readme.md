@@ -13,7 +13,7 @@ Holopin profile](https://holopin.me/jamerrq)](https://holopin.io/@jamerrq)
 <img src="icons/user.svg" width="15" height="15" align="center" alt=""/>&ensp;ABOUT
 </summary>
 <h4 align="center">Backend Developer | <a href="https://jamerrq.deno.dev/" target="_blank">
-Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/pdf/CV_JamerRebolledo.pdf" target="_blank">Curriculum Vitae</a></h4>
+Personal Webpage</a> | <a href="https://jamerrq.deno.dev/docs/cv_Jamer_Rebolledo_en.pdf" target="_blank">Curriculum Vitae</a></h4>
 
 </details>
 </div>
@@ -225,6 +225,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 
 ## Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-
 <!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
