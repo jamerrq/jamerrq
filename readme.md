@@ -116,7 +116,7 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
             alt="" />
         </div>
         <div>
-            <img src="https://streak-stats.demolab.com?user=jamerrq&theme=gotham&   hide_border=true&border_radius=5&mode=weekly" alt="" />
+            <img src="https://streak-stats.demolab.com?user=jamerrq&theme=gotham&hide_border=true&border_radius=5&mode=weekly" alt="" />
         </div>
         <div>
             <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamerrq&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="">
@@ -140,6 +140,41 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
 -----
 
 <details open>
+<summary>
+    <img src="icons/spaghetti-monster-flying-solid.svg" width="15" height="15" align="center" alt=""/>&ensp;COMPETITIVE PROGRAMMING
+</summary>
+
+
+<div>
+    <samp>
+        <p align="center">
+        <br/>
+        <!-- Codeforces -->
+        <a href="https://codeforces.com/profile/jamerrq" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"
+        alt="codeforces" height="30"/></a>
+        <!-- Codewars -->
+        <a href="https://www.codewars.com/users/jamerrq" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/codewars-B1361E.svg?style=for-the-badge&logo=codewars&logoColor=white"
+        alt="codewars" height="30"/></a>
+        <!-- LeetCode -->
+        <a href="https://leetcode.com/jamerrq/" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/leetcode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
+        </a>
+        <br/>
+        <br/>
+        <!-- HackerRank -->
+        <a href="https://www.hackerrank.com/profile/jamerrq" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"
+        alt="hackerrank" height="30"/></a>
+        <!-- Codesignal -->
+        <a href="https://app.codesignal.com/profile/jamerrq" target="_blank"><img align="center" src="https://img.shields.io/badge/codesignal-FF6C37.svg?style=for-the-badge&logo=codesignal&logoColor=white" alt="codesignal" height="30"/></a>
+        </p>
+        </samp>
+</div>
+</details>
+
+<details open>
     <summary>
     <img src="icons/paper-plane.svg" width="15" height="15" align="center" alt=""/>&ensp;CONTACT & SOCIAL
     </summary>
@@ -159,23 +194,15 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
         <a href="https://wa.me/573008163841" target="_blank"><img align="center"
         src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
         alt="whatsapp" height="30"/></a>
+        <br/>
+        <br/>
         <!-- Discord -->
         <a href="https://discordapp.com/users/696545648606183534">
         <img align="center"
         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
         alt="whatsapp" height="30"/></a>
-        <br/>
-        <br/>
         <!-- Twitter -->
         <a href="https://twitter.com/jamerrq" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="30"/></a>
-        <!-- Codeforces -->
-        <a href="https://codeforces.com/profile/jamerrq" target="_blank"><img align="center"
-        src="https://img.shields.io/badge/codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"
-        alt="codeforces" height="30"/></a>
-        <!-- Codewars -->
-        <a href="https://www.codewars.com/users/jamerrq" target="_blank"><img align="center"
-        src="https://img.shields.io/badge/codewars-B1361E.svg?style=for-the-badge&logo=codewars&logoColor=white"
-        alt="codewars" height="30"/></a>
         </p>
         <!-- Webpage -->
         <p align="center">
@@ -193,3 +220,11 @@ Personal Webpage</a> | <a href="https://my-portfolio-jamerrq.netlify.app/assets/
     <img src="https://visitcount.itsvg.in/api?id=jamerrq&label=Profile%20Views&color=0&icon=0&pretty=false)" alt="">
     </img>
 </p>
+
+-----
+
+## Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
