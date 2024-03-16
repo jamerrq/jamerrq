@@ -226,12 +226,12 @@ Personal Webpage</a> | <a href="https://jamerrq.deno.dev/docs/cv_Jamer_Rebolledo
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 15th, 2024, 12:20:40 PM (GMT)
+Last Updated: Saturday, March 16th, 2024, 12:51:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jamerrq/LeetCode-75](https://github.com/jamerrq/LeetCode-75)<br>
-2. ⬆️ Pushed 1 commit(s) to [jamerrq/LeetCode-75](https://github.com/jamerrq/LeetCode-75)<br>
-3. 💪 Opened PR [#55](https://github.com/Ide-Pinturerias/pinturas-app-front/pull/55) in [Ide-Pinturerias/pinturas-app-front](https://github.com/Ide-Pinturerias/pinturas-app-front)<br>
-4. ⭐ Starred [JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat)<br>
-5. ⭐ Starred [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code)<br>
+1. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
+2. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
+3. ⬆️ Pushed 2 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
+4. ⭐ Starred [delucis/astro-embed](https://github.com/delucis/astro-embed)<br>
+5. ⬆️ Pushed 2 commit(s) to [Ide-Pinturerias/pinturas-app-front](https://github.com/Ide-Pinturerias/pinturas-app-front)<br>
 <!--RECENT_ACTIVITY:end-->
