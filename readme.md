@@ -226,12 +226,12 @@ Personal Webpage</a> | <a href="https://jamerrq.deno.dev/docs/cv_Jamer_Rebolledo
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 17th, 2024, 12:56:15 AM (GMT)
+Last Updated: Sunday, March 17th, 2024, 12:20:11 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jamerrq/Foundational-CSharp-with-Microsoft](https://github.com/jamerrq/Foundational-CSharp-with-Microsoft)<br>
+1. ⬆️ Pushed 2 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
 2. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
-3. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
-4. ⬆️ Pushed 2 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
-5. ⭐ Starred [delucis/astro-embed](https://github.com/delucis/astro-embed)<br>
+3. ⬆️ Pushed 1 commit(s) to [jamerrq/Foundational-CSharp-with-Microsoft](https://github.com/jamerrq/Foundational-CSharp-with-Microsoft)<br>
+4. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
+5. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
 <!--RECENT_ACTIVITY:end-->
