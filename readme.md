@@ -226,12 +226,12 @@ Personal Webpage</a> | <a href="https://jamerrq.deno.dev/docs/cv_Jamer_Rebolledo
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 4th, 2024, 12:20:13 PM (GMT)
+Last Updated: Sunday, May 5th, 2024, 12:59:04 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
-2. ⬆️ Pushed 2 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
-3. ⭐ Starred [uprizingFaze/fontsweb](https://github.com/uprizingFaze/fontsweb)<br>
-4. ⬆️ Pushed 110 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
-5. ⭐ Starred [adonisjs/core](https://github.com/adonisjs/core)<br>
+1. ⭐ Starred [google/latexify_py](https://github.com/google/latexify_py)<br>
+2. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
+3. ⬆️ Pushed 2 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
+4. ⭐ Starred [uprizingFaze/fontsweb](https://github.com/uprizingFaze/fontsweb)<br>
+5. ⬆️ Pushed 110 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
 <!--RECENT_ACTIVITY:end-->
