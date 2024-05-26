@@ -226,12 +226,12 @@ Personal Webpage</a> | <a href="https://jamerrq.deno.dev/docs/cv_Jamer_Rebolledo
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 26th, 2024, 1:01:39 AM (GMT)
+Last Updated: Sunday, May 26th, 2024, 12:21:42 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
-2. ⬆️ Pushed 1 commit(s) to [jamerrq/jamerrq.dev](https://github.com/jamerrq/jamerrq.dev)<br>
-3. 💪 Opened PR [#83](https://github.com/Ide-Pinturerias/pinturas-app-front/pull/83) in [Ide-Pinturerias/pinturas-app-front](https://github.com/Ide-Pinturerias/pinturas-app-front)<br>
-4. 💪 Opened PR [#82](https://github.com/Ide-Pinturerias/pinturas-app-front/pull/82) in [Ide-Pinturerias/pinturas-app-front](https://github.com/Ide-Pinturerias/pinturas-app-front)<br>
-5. ⬆️ Pushed 1 commit(s) to [Ide-Pinturerias/pinturas-app-front](https://github.com/Ide-Pinturerias/pinturas-app-front)<br>
+1. 💪 Opened PR [#33](https://github.com/Ide-Pinturerias/pinturas-app-back/pull/33) in [Ide-Pinturerias/pinturas-app-back](https://github.com/Ide-Pinturerias/pinturas-app-back)<br>
+2. ⬆️ Pushed 1 commit(s) to [Ide-Pinturerias/pinturas-app-back](https://github.com/Ide-Pinturerias/pinturas-app-back)<br>
+3. 💪 Opened PR [#32](https://github.com/Ide-Pinturerias/pinturas-app-back/pull/32) in [Ide-Pinturerias/pinturas-app-back](https://github.com/Ide-Pinturerias/pinturas-app-back)<br>
+4. ⬆️ Pushed 1 commit(s) to [Ide-Pinturerias/pinturas-app-back](https://github.com/Ide-Pinturerias/pinturas-app-back)<br>
+5. 💪 Opened PR [#31](https://github.com/Ide-Pinturerias/pinturas-app-back/pull/31) in [Ide-Pinturerias/pinturas-app-back](https://github.com/Ide-Pinturerias/pinturas-app-back)<br>
 <!--RECENT_ACTIVITY:end-->
