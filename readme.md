@@ -1,20 +1,10 @@
-#
-
 <div align="center">
-<h1 align="center">Jamer José</h1>
-
-<details open>
-<summary align="left">
-<img src="icons/user.svg" width="15" height="15" align="center" alt=""/>&ensp;ABOUT
-</summary>
-<h4 align="center">
-Backend Developer |
-Data Engineer at IPG Mediabrands |
-<a href="https://jamerrq.deno.dev/" target="blank"><img align="center"
-        src="https://img.shields.io/badge/Personal%20Webpage-000000.svg?style=for-the-badge&logo=astro&logoColor=white"
-        alt="webpage" height="30"/></a>
-</h4>
-</details>
+    <h1 align="center">Jamer José</h1>
+    <h4 align="center">
+    Backend Developer |
+    Data Engineer at IPG Mediabrands |
+    <a href="https://jamerrq.deno.dev/" target="blank">Webpage</a>
+    </h4>
 </div>
 
 <hr />
@@ -49,7 +39,7 @@ Data Engineer at IPG Mediabrands |
 - **Entorno**
 
     [![NixOS](https://img.shields.io/badge/NixOS-000000?logo=nixos&logoColor=fff)](#)
-    [![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=fff)](#)
+    [![Git](https://img.shields.io/badge/Git-%23F05033.svg?&logo=git&logoColor=fff)](#)
     [![Docker](https://img.shields.io/badge/Docker-007ACC?logo=docker&logoColor=fff)](#)
     [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=fff)](#)
 
@@ -59,23 +49,24 @@ Data Engineer at IPG Mediabrands |
 <hr />
 
 <details closed>
-<summary align="left">
-<img src="icons/laptop-code.svg" width="15" height="15" align="center" alt=""/>&ensp;DESKTOP</summary>
-<img src="imgs/desktop.png" alt=""></img>
+    <summary align="left">
+    <img src="icons/laptop-code.svg" width="15" height="15" align="center" alt=""/>&ensp;DESKTOP</summary>
+    <img src="imgs/desktop.webp" alt=""></img>
     <details closed>
         <summary align="left">
             <img src="icons/spotify.svg" width="15" height="15" align="center" alt=""/>&ensp;
         </summary>
-        <img src="imgs/desktop_4.png" alt=""></img>
+        <img src="imgs/desktop_2.webp" alt=""></img>
     </details>
-
+    <a href="https://github.com/jamerrq/zafon">Zafon: Dotfiles Manager</a>
 </details>
+
 
 <hr />
 
 <details closed>
     <summary>
-    <img src="icons/paper-plane.svg" width="15" height="15" align="center" alt=""/>&ensp;CONTACT & SOCIAL
+    <img src="icons/paper-plane.svg" width="15" height="15" align="center" alt=""/>&ensp;CONTACT
     </summary>
     <div>
         <samp>
@@ -87,7 +78,7 @@ Data Engineer at IPG Mediabrands |
             alt="linkedin"/></a>
             <!-- Gmail -->
             <a href="mailto:jamerrq@gmail.com" target="_blank"><img align="center"
-            src="https://img.shields.io/badge/gmail-EA4335.svg?logo=gmail&logoColor=fff"
+            src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=fff"
             alt="gmail"/></a>
             <br/>
             </p>
