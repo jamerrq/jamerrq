@@ -2,8 +2,7 @@
     <h1 align="center">Jamer José</h1>
     <h4 align="center">
     Backend Developer |
-    Data Engineer at IPG Mediabrands |
-    <a href="https://jamerrq.deno.dev/" target="blank">Webpage</a>
+    Data Engineer at IPG Mediabrands
     </h4>
 </div>
 
@@ -34,10 +33,11 @@
     [![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)](#)
     [![Astro](https://img.shields.io/badge/Astro-DA510B?logo=astro&logoColor=fff)](#)
     [![Tailwind CSS](https://img.shields.io/badge/Tailwind-0078d7?logo=tailwind-css&logoColor=fff)](#)
-    [![Streamlit](https://img.shields.io/badge/Streamlit-DA510B?logo=streamlit&logoColor=fff)](#)
+    [![Streamlit](https://img.shields.io/badge/Streamlit-000000?logo=streamlit&logoColor=fff)](#)
 
 - **Entorno**
 
+    ![ArchLinux](https://img.shields.io/badge/Arch-000000?logo=archlinux&logoColor=fff)
     [![NixOS](https://img.shields.io/badge/NixOS-000000?logo=nixos&logoColor=fff)](#)
     [![Git](https://img.shields.io/badge/Git-%23F05033.svg?&logo=git&logoColor=fff)](#)
     [![Docker](https://img.shields.io/badge/Docker-007ACC?logo=docker&logoColor=fff)](#)
@@ -56,11 +56,10 @@
         <summary align="left">
             <img src="icons/spotify.svg" width="15" height="15" align="center" alt=""/>&ensp;
         </summary>
-        <img src="imgs/desktop_2.webp" alt=""></img>
+        <img src="imgs/desktop_4.webp" alt=""></img>
     </details>
     <a href="https://github.com/jamerrq/zafon">Zafon: Dotfiles Manager</a>
 </details>
-
 
 <hr />
 
