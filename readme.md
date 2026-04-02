@@ -48,7 +48,7 @@
 
 <hr />
 
-<details closed>
+<details open>
     <summary align="left">
     <img src="icons/laptop-code.svg" width="15" height="15" align="center" alt=""/>&ensp;DESKTOP</summary>
     <img src="imgs/desktop_10.webp" alt=""></img>
