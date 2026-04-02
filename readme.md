@@ -2,13 +2,13 @@
     <h1 align="center">Jamer José</h1>
     <h4 align="center">
     Backend Developer |
-    Data Engineer at IPG Mediabrands
+    Data / Software Engineer
     </h4>
 </div>
 
 <hr />
 
-<details closed>
+<details open>
 <summary>
 <img src="icons/paintbrush.svg" width="15" height="15" align="center" alt=""/>&ensp;STACK
 </summary>
@@ -51,14 +51,16 @@
 <details closed>
     <summary align="left">
     <img src="icons/laptop-code.svg" width="15" height="15" align="center" alt=""/>&ensp;DESKTOP</summary>
-    <img src="imgs/desktop.webp" alt=""></img>
+    <img src="imgs/desktop_10.webp" alt=""></img>
     <details closed>
         <summary align="left">
             <img src="icons/spotify.svg" width="15" height="15" align="center" alt=""/>&ensp;
         </summary>
-        <img src="imgs/desktop_4.webp" alt=""></img>
+        <img src="imgs/desktop_5.webp" alt=""></img>
     </details>
-    <a href="https://github.com/jamerrq/zafon">Zafon: Dotfiles Manager</a>
+    <div align="center">
+        <a href="https://github.com/jamerrq/zafon">Zafon: Dotfiles Manager</a>
+    </div>
 </details>
 
 <hr />
